@@ -1,0 +1,12 @@
+{
+  "assetsVersion": "v1.0.0",
+  "icons": {
+    "reward.forma": "tasks/forma.webp",
+    "reward.incarnon-genesis": "tasks/incarnon-genesis.webp",
+    "reward.kuva": "tasks/kuva.webp",
+    "reward.legendary-core": "tasks/legendary-core.webp",
+    "reward.orokin-catalyst": "tasks/orokin-catalyst.webp",
+    "reward.orokin-reactor": "tasks/orokin-reactor.webp",
+    "reward.riven": "tasks/riven.webp"
+  }
+}
