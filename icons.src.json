@@ -1,6 +1,7 @@
 {
   "icons": {
     "reward.amp-arcane-adapter": "tasks/adapters/arcane/amp-arcane-adapter.webp",
+    "reward.arcane-enhancement":"tasks/arcane-enhancement.webp",
     "reward.archgun-arcane-adapter": "tasks/adapters/arcane/archgun-arcane-adapter.webp",
     "reward.melee-arcane-adapter": "tasks/adapters/arcane/melee-arcane-adapter.webp",
     "reward.primary-arcane-adapter": "tasks/adapters/arcane/primary-arcane-adapter.webp",
