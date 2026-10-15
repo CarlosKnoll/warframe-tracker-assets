@@ -1,9 +1,10 @@
 {
-  "assetsVersion": "v1.1.0",
+  "assetsVersion": "v1.1.1",
   "icons": {
     "reward.affinity-booster": "tasks/boosters/affinity-booster.webp",
     "reward.amber-archon-shard": "tasks/shards/amber-archon-shard.webp",
     "reward.amp-arcane-adapter": "tasks/adapters/arcane/amp-arcane-adapter.webp",
+    "reward.arcane-enhancement": "tasks/arcane-enhancement.webp",
     "reward.archgun-arcane-adapter": "tasks/adapters/arcane/archgun-arcane-adapter.webp",
     "reward.aura-forma": "tasks/aura-forma.webp",
     "reward.ayatan-anasa-sculpture": "tasks/ayatan-anasa-sculpture.webp",
