@@ -1,5 +1,5 @@
 {
-  "assetsVersion": "v1.1.1",
+  "assetsVersion": "v1.1.2",
   "icons": {
     "reward.affinity-booster": "tasks/boosters/affinity-booster.webp",
     "reward.amber-archon-shard": "tasks/shards/amber-archon-shard.webp",
@@ -27,6 +27,7 @@
     "reward.orokin-catalyst": "tasks/orokin-catalyst.webp",
     "reward.orokin-reactor": "tasks/orokin-reactor.webp",
     "reward.primary-arcane-adapter": "tasks/adapters/arcane/primary-arcane-adapter.webp",
+    "reward.relic-pack": "tasks/relic-pack.webp",
     "reward.resource-booster": "tasks/boosters/resource-booster.webp",
     "reward.resource-drop-chance-booster": "tasks/boosters/resource-drop-chance-booster.webp",
     "reward.riven": "tasks/riven.webp",
@@ -44,6 +45,10 @@
     "reward.topaz-archon-shard": "tasks/shards/topaz-archon-shard.webp",
     "reward.umbra-forma": "tasks/umbra-forma.webp",
     "reward.violet-archon-shard": "tasks/shards/violet-archon-shard.webp",
-    "reward.vosfor": "tasks/vosfor.webp"
+    "reward.vosfor": "tasks/vosfor.webp",
+    "reward.warframe-blueprint": "tasks/warframe-blueprint.webp",
+    "reward.warframe-chassis": "tasks/warframe-chassis.webp",
+    "reward.warframe-neuroptics": "tasks/warframe-neuroptics.webp",
+    "reward.warframe-systems": "tasks/warframe-systems.webp"
   }
 }
