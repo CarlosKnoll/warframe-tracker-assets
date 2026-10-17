@@ -1,5 +1,5 @@
 {
-  "assetsVersion": "v1.1.2",
+  "assetsVersion": "v1.1.3",
   "icons": {
     "reward.affinity-booster": "tasks/boosters/affinity-booster.webp",
     "reward.amber-archon-shard": "tasks/shards/amber-archon-shard.webp",
@@ -46,6 +46,7 @@
     "reward.umbra-forma": "tasks/umbra-forma.webp",
     "reward.violet-archon-shard": "tasks/shards/violet-archon-shard.webp",
     "reward.vosfor": "tasks/vosfor.webp",
+    "reward.warframe-augment": "tasks/warframe-augment.webp",
     "reward.warframe-blueprint": "tasks/warframe-blueprint.webp",
     "reward.warframe-chassis": "tasks/warframe-chassis.webp",
     "reward.warframe-neuroptics": "tasks/warframe-neuroptics.webp",
