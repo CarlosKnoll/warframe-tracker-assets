@@ -1,5 +1,5 @@
 {
-  "assetsVersion": "v1.1.3",
+  "assetsVersion": "v1.1.4",
   "icons": {
     "reward.affinity-booster": "tasks/boosters/affinity-booster.webp",
     "reward.amber-archon-shard": "tasks/shards/amber-archon-shard.webp",
@@ -35,6 +35,7 @@
     "reward.riven-splicer": "tasks/riven-splicer.webp",
     "reward.riven-transmuter": "tasks/riven-transmuter.webp",
     "reward.secondary-arcane-adapter": "tasks/adapters/arcane/secondary-arcane-adapter.webp",
+    "reward.stance-forma": "tasks/stance-forma.webp",
     "reward.steel-essence": "tasks/steel-essence.webp",
     "reward.tauforged-amber-archon-shard": "tasks/shards/tauforged-amber-archon-shard.webp",
     "reward.tauforged-azure-archon-shard": "tasks/shards/tauforged-azure-archon-shard.webp",
