@@ -1,13 +1,13 @@
 {
   "icons": {
     "reward.amp-arcane-adapter": "tasks/adapters/arcane/amp-arcane-adapter.webp",
-    "reward.arcane-enhancement":"tasks/arcane-enhancement.webp",
     "reward.archgun-arcane-adapter": "tasks/adapters/arcane/archgun-arcane-adapter.webp",
     "reward.melee-arcane-adapter": "tasks/adapters/arcane/melee-arcane-adapter.webp",
     "reward.primary-arcane-adapter": "tasks/adapters/arcane/primary-arcane-adapter.webp",
     "reward.secondary-arcane-adapter": "tasks/adapters/arcane/secondary-arcane-adapter.webp",
     "reward.exilus-warframe-adapter": "tasks/adapters/exilus/exilus-warframe-adapter.webp",
     "reward.exilus-weapon-adapter": "tasks/adapters/exilus/exilus-weapon-adapter.webp",
+    "reward.arcane-enhancement": "tasks/arcane-enhancement.webp",
     "reward.aura-forma": "tasks/aura-forma.webp",
     "reward.ayatan-anasa-sculpture": "tasks/ayatan-anasa-sculpture.webp",
     "reward.affinity-booster": "tasks/boosters/affinity-booster.webp",
@@ -25,6 +25,7 @@
     "reward.legendary-core": "tasks/legendary-core.webp",
     "reward.orokin-catalyst": "tasks/orokin-catalyst.webp",
     "reward.orokin-reactor": "tasks/orokin-reactor.webp",
+    "reward.relic-pack": "tasks/relic-pack.webp",
     "reward.riven": "tasks/riven.webp",
     "reward.riven-cipher": "tasks/riven-cipher.webp",
     "reward.riven-splicer": "tasks/riven-splicer.webp",
@@ -43,6 +44,10 @@
     "reward.violet-archon-shard": "tasks/shards/violet-archon-shard.webp",
     "reward.steel-essence": "tasks/steel-essence.webp",
     "reward.umbra-forma": "tasks/umbra-forma.webp",
-    "reward.vosfor": "tasks/vosfor.webp"
+    "reward.vosfor": "tasks/vosfor.webp",
+    "reward.warframe-blueprint": "tasks/warframe-blueprint.webp",
+    "reward.warframe-chassis": "tasks/warframe-chassis.webp",
+    "reward.warframe-neuroptics": "tasks/warframe-neuroptics.webp",
+    "reward.warframe-systems": "tasks/warframe-systems.webp"
   }
 }
